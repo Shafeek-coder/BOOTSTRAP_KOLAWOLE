@@ -1,0 +1,24 @@
+
+.card-img-top{
+    height: 400px;
+}
+
+.c-item{
+    height:500px;
+  
+}
+#li-hover{
+    transition:all 0.3s;
+}
+#li-hover:hover{
+    transform: scale(1.15);
+}
+
+.c-img{ 
+    height: 100%;
+    object-fit: cover;
+}
+
+body{
+    background-color: rgba(128, 128, 128, 0.605);
+}
